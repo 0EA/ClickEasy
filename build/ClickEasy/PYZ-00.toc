@@ -1,0 +1,666 @@
+('C:\\Users\\Nurullah Eren '
+ 'Acar\\Desktop\\clicker\\build\\ClickEasy\\PYZ-00.pyz',
+ [('tokenize',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\struct.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\token.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\selectors.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\signal.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\stat.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\typing.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\pprint.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\pickle.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\pdb.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\socket.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\bz2.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\base64.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\calendar.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ssl.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\tty.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\bisect.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\__future__.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\random.py',
+   'PYMODULE'),
+  ('pynput.keyboard',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\keyboard\\__init__.py',
+   'PYMODULE'),
+  ('pynput.keyboard._xorg',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\keyboard\\_xorg.py',
+   'PYMODULE'),
+  ('pynput._util.xorg_keysyms',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\_util\\xorg_keysyms.py',
+   'PYMODULE'),
+  ('pynput._util.xorg',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\_util\\xorg.py',
+   'PYMODULE'),
+  ('pynput.keyboard._win32',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\keyboard\\_win32.py',
+   'PYMODULE'),
+  ('pynput._util.win32',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\_util\\win32.py',
+   'PYMODULE'),
+  ('pynput._util.win32_vks',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\_util\\win32_vks.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('pynput.keyboard._darwin',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\keyboard\\_darwin.py',
+   'PYMODULE'),
+  ('pynput._util.darwin',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\_util\\darwin.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pynput._util',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\_util\\__init__.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\queue.py',
+   'PYMODULE'),
+  ('pynput.keyboard._base',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\keyboard\\_base.py',
+   'PYMODULE'),
+  ('pynput',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\__init__.py',
+   'PYMODULE'),
+  ('pynput.mouse',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\mouse\\__init__.py',
+   'PYMODULE'),
+  ('pynput.mouse._xorg',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\mouse\\_xorg.py',
+   'PYMODULE'),
+  ('pynput.mouse._win32',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\mouse\\_win32.py',
+   'PYMODULE'),
+  ('pynput.mouse._darwin',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\mouse\\_darwin.py',
+   'PYMODULE'),
+  ('pynput.mouse._base',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pynput\\mouse\\_base.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\nurullah eren '
+   'acar\\appdata\\local\\programs\\python\\python37\\lib\\_threading_local.py',
+   'PYMODULE')])
